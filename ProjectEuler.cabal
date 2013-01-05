@@ -1,0 +1,12 @@
+Name:           ProjectEuler
+Version:        0.0
+Cabal-Version:  >= 1.2
+Author:		Karandi Tamas
+Synopsis:	Solutions for problems from www.projecteuler.net
+Build-Type:     Simple
+
+Library
+  Build-Depends:    base, HUnit
+  Exposed-Modules:  AllTests
+  Other-Modules:    Pr001, Pr008
+	
