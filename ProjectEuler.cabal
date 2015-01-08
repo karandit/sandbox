@@ -8,5 +8,5 @@ Build-Type:     Simple
 Library
   Build-Depends:    base, HUnit
   Exposed-Modules:  AllTests
-  Other-Modules:    Pr001, Pr008, Pr011
+  Other-Modules:    Pr001, Pr008, Pr011, Pr018
 	
